@@ -8,7 +8,7 @@ Computer Science student, aspiring fullstack developer.
 - 🛠️ Learning by building: currently working on a QR-based student attendance system
 - 🎯 Focus: fullstack web development (React, Node.js, Express, MySQL)
 - 🌱 I'm currently learning react
-
+- 1+ year of studying web dev
 ## Tech stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,4 +23,4 @@ Computer Science student, aspiring fullstack developer.
 
 ## Connect
 
-- GitHub: [@carljms](https://github.com/carljms)
+- GitHub: [@carljms](https://github.com/carljms) 
