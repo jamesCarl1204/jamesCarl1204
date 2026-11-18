@@ -32,7 +32,7 @@ A parish information management system project for Our Lady of the Airways Paris
 
 **Tech Stack:** React, Vite, JavaScript, CSS Modules
 
-### [Personal Portfolio](https://github.com/jamesCarl1204/portfolio)
+### [Personal Portfolio](https://myportfolio-one-livid-58.vercel.app)
 
 A personal website that presents my background, selected projects, and web development work.
 
