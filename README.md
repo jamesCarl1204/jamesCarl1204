@@ -1,42 +1,42 @@
 # Hi, I'm Carlo James 👋
 
-I'm a Computer Science student at Regis Marie College focused on building practical web applications with **JavaScript, React, Node.js, Express, and MySQL**.
+I'm a Computer Science student at Regis Marie College interested in **frontend and full-stack web development**. I build practical web applications using JavaScript, React, Node.js, Express, and MySQL, with a focus on clean interfaces and useful features.
 
-I enjoy turning real-world problems into useful applications and learning how frontend, backend, and database systems work together.
+I enjoy learning by building projects, solving development problems, and understanding how frontend applications connect with APIs and databases.
 
 ## About Me
 
 - 🎓 Computer Science student at Regis Marie College
-- 💻 Interested in frontend and full-stack web development
-- 🛠️ Learning through hands-on projects and practical problem-solving
-- 🌱 Improving my JavaScript, React, API integration, and database skills
-- 🎯 Open to internship and junior developer opportunities where I can learn and contribute
+- 💻 Focused on frontend development while building my backend skills
+- 🧩 Interested in creating practical, user-focused web applications
+- 🌱 Continuously improving my JavaScript, React, REST API, and database skills
+- 🎯 Open to internship opportunities where I can contribute, learn, and grow as a developer
 
 ## Featured Projects
 
 ### [QR Code-Based Attendance System](https://github.com/jamesCarl1204/QrCode-based-attendance-system)
 
-A web-based attendance management system with separate experiences for administrators, teachers, and students. It uses QR-code scanning for attendance workflows and includes attendance records and parent email notifications.
+A web-based attendance management system that uses session-based QR codes to record and manage student attendance. It provides separate portals for administrators, teachers, and students, with attendance records and parent email notifications.
 
-**Tech:** React, Vite, Node.js, Express, MySQL
+**Tech Stack:** React, Vite, Node.js, Express, MySQL
 
 ### [AssessWatch](https://github.com/jamesCarl1204/Assess-Watch)
 
-An online assessment and interview monitoring project that organizes activity signals such as tab changes, loss of focus, and paste activity to help teachers review assessment sessions. These signals are indicators for review, not proof of misconduct.
+An online assessment and interview activity monitoring project. It is designed to organize browser activity signals—such as tab changes, loss of focus, and paste events—so instructors can review session context. These signals support human review and are not treated as proof of misconduct.
 
-**Tech:** React, Vite, Node.js, Express, MySQL
+**Tech Stack:** React, Vite, Node.js, Express, MySQL
 
 ### [OLAP – Parish Information Management System](https://github.com/jamesCarl1204/OLAP)
 
-A parish information management system project focused on public information and staff-facing workflows for services and certificate requests. The project is currently under development.
+A parish information management system project for Our Lady of the Airways Parish. The current repository focuses on the React frontend, including public information pages, a staff login interface, and certificate request screens. Backend APIs, database integration, and authentication are still in development.
 
-**Tech:** React, Vite, JavaScript, CSS Modules
+**Tech Stack:** React, Vite, JavaScript, CSS Modules
 
 ### [Personal Portfolio](https://github.com/jamesCarl1204/portfolio)
 
-A personal portfolio showcasing my projects and web development work.
+A personal website that presents my background, selected projects, and web development work.
 
-**Tech:** React, Vite, CSS Modules
+**Tech Stack:** React, Vite, CSS Modules
 
 ## Technical Skills
 
@@ -59,15 +59,15 @@ A personal portfolio showcasing my projects and web development work.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Currently Improving
+## Current Learning Focus
 
-- JavaScript and React fundamentals
+- Strengthening JavaScript and React fundamentals
 - Building and integrating REST APIs
-- Backend structure and database relationships
-- Debugging and deploying web applications
-- Writing clearer, maintainable code
+- Improving backend organization and database design
+- Debugging, testing, and deploying web applications
+- Writing readable and maintainable code
 
 ## Connect
 
 - GitHub: [@jamesCarl1204](https://github.com/jamesCarl1204)
-- Portfolio: [View my portfolio](https://github.com/jamesCarl1204/portfolio)
+- Portfolio: [View my portfolio](https://myportfolio-one-livid-58.vercel.app)
